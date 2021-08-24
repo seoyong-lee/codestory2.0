@@ -19,5 +19,26 @@
         }
       }
     }
+  },
+  "new": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codestoryver2-new-201402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::098503241018:role/amplify-codestoryver2-new-201402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::098503241018:role/amplify-codestoryver2-new-201402-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-codestoryver2-new-201402-deployment",
+      "UnauthRoleName": "amplify-codestoryver2-new-201402-unauthRole",
+      "StackName": "amplify-codestoryver2-new-201402",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:098503241018:stack/amplify-codestoryver2-new-201402/65066480-04cc-11ec-87e1-02b308bb2e06",
+      "AmplifyAppId": "d1z8wn7mcgvfj5"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1z8wn7mcgvfj5",
+          "type": "cicd"
+        }
+      }
+    }
   }
 }
